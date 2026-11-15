@@ -1,16 +1,14 @@
-## Hi there 👋
+# AlexZc Wang
 
-<!--
-**AzcWang/AzcWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Sisymiro](https://sisymiro.com). Based in Beijing.
 
-Here are some ideas to get you started:
+### What I'm working on
+- [Vemiv](https://vemiv.com) — Your daily readiness, from Apple Health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+AI · Product · Frontier tech
+
+### Contact
+- Email: `alex@sisymiro.com`
+- Website: [azc.wang](https://azc.wang)
+- X: [@AzcWang](https://x.com/AzcWang)
